@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="24px" viewBox="0 0 40 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="31" cy="11" r="9.5"></circle>
+        <filter x="-23.7%" y="-13.2%" width="136.8%" height="136.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0241608251   0 0 0 0 0.0917852186   0 0 0 0 0.178730867  0 0 0 0.403674139 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.2-发送页-ETH-高级模式" transform="translate(-323.000000, -412.000000)">
+            <rect fill="#F7F7F7" x="0" y="0" width="375" height="667"></rect>
+            <g id="Group-5" transform="translate(0.000000, 269.000000)" fill-rule="nonzero">
+                <g id="Group-3" transform="translate(12.000000, 10.000000)">
+                    <g id="Group-11" transform="translate(255.000000, 133.000000)">
+                        <g id="Group-10" transform="translate(54.000000, 0.000000)">
+                            <rect id="Rectangle-8" fill="#2968B9" x="2" y="0" width="40" height="22" rx="11"></rect>
+                            <g id="Oval-3">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                            </g>
+                            <rect id="Rectangle-9" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="42" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

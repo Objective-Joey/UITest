@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>成功</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-02-01-实名认证-重新认证" transform="translate(-701.000000, -450.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="1110"></rect>
+            <g id="Group-3" transform="translate(700.000000, 450.000000)" fill-rule="nonzero">
+                <g id="成功" transform="translate(0.714286, 0.000000)">
+                    <circle id="Oval" fill="#45C67C" cx="21.2857143" cy="21" r="21"></circle>
+                    <path d="M8.26571429,22.8134895 C7.93357143,22.4837471 7.93357143,21.8902108 8.19928571,21.5604684 L8.66428571,20.9009836 C8.93,20.5052927 9.46142857,20.4393443 9.86,20.7690867 L15.7721429,25.2535831 C16.1707143,25.517377 16.7685714,25.517377 17.1007143,25.2535831 L32.7778571,12.1957845 C33.11,11.9319906 33.7078571,11.9319906 34.04,12.261733 L34.3057143,12.5255269 C34.6378571,12.8552693 34.6378571,13.3828571 34.3057143,13.7125995 L17.0342857,30.5954098 C16.7021429,30.9251522 16.1707143,30.9251522 15.8385714,30.5954098 L8.26571429,22.8134895 Z" id="Shape" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

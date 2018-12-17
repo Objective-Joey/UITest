@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="45px" viewBox="0 0 47 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>证件上传</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.5,0 L24.5,0 C36.9264069,-2.28269391e-15 47,10.0735931 47,22.5 L47,22.5 C47,34.9264069 36.9264069,45 24.5,45 L22.5,45 C10.0735931,45 1.52179594e-15,34.9264069 0,22.5 L0,22.5 C-1.52179594e-15,10.0735931 10.0735931,2.28269391e-15 22.5,0 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="47" height="45" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02-02-00-实名认证" transform="translate(-699.000000, -463.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="1110"></rect>
+            <g id="护照正面" transform="translate(598.000000, 410.000000)">
+                <g id="证件上传" transform="translate(101.000000, 53.000000)">
+                    <use id="Rectangle-13" stroke="#CBD0DA" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="4" xlink:href="#path-1"></use>
+                    <path d="M25.4871795,22 L33.4871795,22 C34.0394642,22 34.4871795,22.4477153 34.4871795,23 C34.4871795,23.5522847 34.0394642,24 33.4871795,24 L25.4871795,24 L25.4871795,32 C25.4871795,32.5522847 25.0394642,33 24.4871795,33 C23.9348947,33 23.4871795,32.5522847 23.4871795,32 L23.4871795,24 L15.4871795,24 C14.9348947,24 14.4871795,23.5522847 14.4871795,23 C14.4871795,22.4477153 14.9348947,22 15.4871795,22 L23.4871795,22 L23.4871795,14 C23.4871795,13.4477153 23.9348947,13 24.4871795,13 C25.0394642,13 25.4871795,13.4477153 25.4871795,14 L25.4871795,22 Z" id="Combined-Shape" fill="#7E8EB5"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

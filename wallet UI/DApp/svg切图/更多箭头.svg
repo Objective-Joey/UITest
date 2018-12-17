@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="04-00-00-管理中心" transform="translate(-1520.000000, -111.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="960"></rect>
+            <g id="Group-25" transform="translate(364.000000, 86.000000)" fill="#7E8EB5" fill-rule="nonzero">
+                <g id="待办" transform="translate(622.000000, 0.000000)">
+                    <g id="Group-26" transform="translate(504.000000, 23.000000)">
+                        <path d="M33.7426407,9.74264069 L33.7426407,4.24264069 C33.7426407,3.96649831 33.9664983,3.74264069 34.2426407,3.74264069 C34.5187831,3.74264069 34.7426407,3.96649831 34.7426407,4.24264069 L34.7426407,10.2426407 C34.7426407,10.5187831 34.5187831,10.7426407 34.2426407,10.7426407 L28.2426407,10.7426407 C27.9664983,10.7426407 27.7426407,10.5187831 27.7426407,10.2426407 C27.7426407,9.96649831 27.9664983,9.74264069 28.2426407,9.74264069 L33.7426407,9.74264069 Z" id="Rectangle-4" transform="translate(31.242641, 7.242641) rotate(-45.000000) translate(-31.242641, -7.242641) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

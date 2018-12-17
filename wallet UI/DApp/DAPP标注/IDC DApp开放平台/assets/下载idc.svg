@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="49px" viewBox="0 0 52 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>下载idc</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-13.0%" y="-14.6%" width="126.1%" height="129.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.30912642   0 0 0 0 0.999647992   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-00-00-首页-copy-2" transform="translate(-388.000000, -766.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="1689"></rect>
+            <g id="Group-4" transform="translate(374.000000, 751.000000)" fill="#FFFFFF">
+                <g id="下载idc" filter="url(#filter-1)" transform="translate(17.000000, 19.000000)">
+                    <path d="M0.871102805,26.9513611 C0.679766041,26.5519678 0.844072315,26.0709707 1.23809114,25.8770241 C1.63210996,25.6830774 2.10663443,25.8496249 2.29797119,26.2490182 C6.11757697,34.2220029 14.099804,39.3921569 23,39.3921569 C31.9264414,39.3921569 39.9281295,34.1913479 43.7338819,26.1822574 C43.9239587,25.7822465 44.3979558,25.614163 44.7925839,25.8068326 C45.1872121,25.9995021 45.3530337,26.4799646 45.1629568,26.8799756 C41.0952433,35.4403555 32.5414698,41 23,41 C13.4865973,41 4.95360442,35.4731105 0.871102805,26.9513611 Z" id="Oval" fill-rule="nonzero"></path>
+                    <path d="M23.7931034,25.9885053 L32.5949466,17.1866622 C32.9046727,16.8769361 33.4102629,16.8803609 33.7242138,17.1943118 C34.0381647,17.5082627 34.0415895,18.0138528 33.7318634,18.323579 L23.6373045,28.4181379 C23.3275783,28.727864 22.8219882,28.7244392 22.5080373,28.4104883 L12.2757862,18.1782372 C11.9618353,17.8642863 11.9584105,17.3586962 12.2681366,17.04897 C12.5778628,16.7392439 13.083453,16.7426687 13.3974039,17.0566196 L22.2068966,25.8661123 L22.2068966,0.793103448 C22.2068966,0.355084509 22.5619811,8.04627738e-17 23,0 C23.4380189,-8.04627738e-17 23.7931034,0.355084509 23.7931034,0.793103448 L23.7931034,25.9885053 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

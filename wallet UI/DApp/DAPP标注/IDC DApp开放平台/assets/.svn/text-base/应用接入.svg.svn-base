@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="43px" viewBox="0 0 50 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>应用接入</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-14.3%" y="-17.1%" width="128.6%" height="134.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.30912642   0 0 0 0 0.999647992   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-00-00-首页-copy-2" transform="translate(-942.000000, -768.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="1689"></rect>
+            <g id="Group-7" transform="translate(927.000000, 750.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <g id="应用接入" filter="url(#filter-1)" transform="translate(19.000000, 22.000000)">
+                    <path d="M4.2,1.4 C2.6536027,1.4 1.4,2.6536027 1.4,4.2 L1.4,30.8 C1.4,32.3463973 2.6536027,33.6 4.2,33.6 L37.8,33.6 C39.3463973,33.6 40.6,32.3463973 40.6,30.8 L40.6,4.2 C40.6,2.6536027 39.3463973,1.4 37.8,1.4 L4.2,1.4 Z M4.2,0 L37.8,0 C40.1195959,0 42,1.88040405 42,4.2 L42,30.8 C42,33.1195959 40.1195959,35 37.8,35 L4.2,35 C1.88040405,35 0,33.1195959 0,30.8 L0,4.2 C0,1.88040405 1.88040405,0 4.2,0 Z" id="Rectangle-12"></path>
+                    <path d="M18.2,20.3 C19.7468778,20.3 21,19.0459635 21,17.5 C21,15.9540365 19.7468778,14.7 18.2,14.7 C16.6531222,14.7 15.4,15.9540365 15.4,17.5 C15.4,19.0459635 16.6531222,20.3 18.2,20.3 Z M27.9419217,16.8 L34.304,16.8 C34.6883902,16.8 35,17.1116098 35,17.496 L35,17.504 C35,17.8883902 34.6883902,18.2 34.304,18.2 L27.9419217,18.2 C27.6087099,20.1859498 25.8816762,21.7 23.8,21.7 C23.4134007,21.7 23.1,21.3865993 23.1,21 C23.1,20.6134007 23.4134007,20.3 23.8,20.3 C25.3468778,20.3 26.6,19.0459635 26.6,17.5 C26.6,15.9540365 25.3468778,14.7 23.8,14.7 C23.4134007,14.7 23.1,14.3865993 23.1,14 C23.1,13.6134007 23.4134007,13.3 23.8,13.3 C25.8816762,13.3 27.6087099,14.8140502 27.9419217,16.8 Z M14.0580783,18.2 L7.696,18.2 C7.31160981,18.2 7,17.8883902 7,17.504 L7,17.496 C7,17.1116098 7.31160981,16.8 7.696,16.8 L14.0580783,16.8 C14.3912901,14.8140502 16.1183238,13.3 18.2,13.3 C20.5203051,13.3 22.4,15.1810664 22.4,17.5 C22.4,19.8189336 20.5203051,21.7 18.2,21.7 C16.1183238,21.7 14.3912901,20.1859498 14.0580783,18.2 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

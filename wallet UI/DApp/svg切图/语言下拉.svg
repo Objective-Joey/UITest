@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-01-00-首页悬浮状态" transform="translate(-1880.000000, -30.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="1721"></rect>
+            <g id="导航栏" fill="#7E8EB5">
+                <g id="国家语言" transform="translate(1848.000000, 26.000000)">
+                    <path d="M41.7928932,5.26905645 L37.5,9.78226434 C37.2238576,10.0725786 36.7761424,10.0725786 36.5,9.78226434 L32.2071068,5.26905645 C31.9309644,4.97874223 31.9309644,4.50804988 32.2071068,4.21773566 C32.339715,4.07832186 32.5195704,4 32.7071068,4 L41.2928932,4 C41.6834175,4 42,4.33282975 42,4.74339606 C42,4.94055695 41.9255015,5.12964265 41.7928932,5.26905645 Z" id="Rectangle-6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

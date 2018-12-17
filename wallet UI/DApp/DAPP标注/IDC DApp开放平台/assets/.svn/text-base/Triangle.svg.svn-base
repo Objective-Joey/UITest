@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="6px" viewBox="0 0 12 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="07-02-01-实名认证-重新认证" transform="translate(-912.000000, -240.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="1110"></rect>
+            <g id="姓名" transform="translate(600.000000, 190.000000)" fill="#2E406B">
+                <path d="M318.701804,50.2464665 L322.803805,54.2876304 C323.197236,54.6752263 323.201966,55.3083736 322.81437,55.7018045 C322.626423,55.8925815 322.369807,56 322.102001,56 L313.897999,56 C313.345715,56 312.897999,55.5522847 312.897999,55 C312.897999,54.7321938 313.005418,54.475578 313.196195,54.2876304 L317.298196,50.2464665 C317.687476,49.8629593 318.312524,49.8629593 318.701804,50.2464665 Z" id="Triangle" transform="translate(318.000000, 53.000000) scale(-1, -1) translate(-318.000000, -53.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>审核发布</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-14.3%" y="-14.3%" width="128.6%" height="128.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.30912642   0 0 0 0 0.999647992   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-00-00-首页-copy-2" transform="translate(-1495.000000, -765.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="1689"></rect>
+            <g id="Group-8" transform="translate(1480.000000, 750.000000)" fill="#FFFFFF">
+                <g id="审核发布" filter="url(#filter-1)" transform="translate(19.000000, 19.000000)">
+                    <path d="M12.2791812,22.8484703 L32.4791812,22.8484703 C32.921009,22.8484703 33.2791812,23.2066425 33.2791812,23.6484703 L33.2791812,23.6638549 C33.2791812,24.1056827 32.921009,24.4638549 32.4791812,24.4638549 L11.4637966,24.4638549 C11.0219688,24.4638549 10.6637966,24.1056827 10.6637966,23.6638549 L10.6637966,23.6484703 C10.6637966,23.6277445 10.6645848,23.6072028 10.6661327,23.5868735 C10.6645848,23.5665443 10.6637966,23.5460026 10.6637966,23.5252768 L10.6637966,15.4329691 C10.6637966,14.9911413 11.0219688,14.6329691 11.4637966,14.6329691 L11.4791812,14.6329691 C11.921009,14.6329691 12.2791812,14.9911413 12.2791812,15.4329691 L12.2791812,22.8484703 Z" id="Combined-Shape-Copy-2" transform="translate(21.971489, 19.548412) rotate(-45.000000) translate(-21.971489, -19.548412) "></path>
+                    <path d="M21,42 C9.40202025,42 0,32.5979797 0,21 C0,9.40202025 9.40202025,0 21,0 C32.5979797,0 42,9.40202025 42,21 C42,32.5979797 32.5979797,42 21,42 Z M21,40.3846154 C31.7058275,40.3846154 40.3846154,31.7058275 40.3846154,21 C40.3846154,10.2941725 31.7058275,1.61538462 21,1.61538462 C10.2941725,1.61538462 1.61538462,10.2941725 1.61538462,21 C1.61538462,31.7058275 10.2941725,40.3846154 21,40.3846154 Z" id="Oval-3" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

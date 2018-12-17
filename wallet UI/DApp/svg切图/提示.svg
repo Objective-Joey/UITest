@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>提示</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-01-01-管理中心提示弹窗" transform="translate(-928.000000, -377.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="960"></rect>
+            <g id="弹窗" transform="translate(744.000000, 273.000000)" fill="#B6B6B6" fill-rule="nonzero">
+                <g id="Group-5" transform="translate(185.000000, 105.000000)">
+                    <path d="M24,48.5 C10.4690236,48.5 -0.5,37.5309764 -0.5,24 C-0.5,10.4690236 10.4690236,-0.5 24,-0.5 C37.5309764,-0.5 48.5,10.4690236 48.5,24 C48.5,37.5309764 37.5309764,48.5 24,48.5 Z M24,47.5 C36.9786916,47.5 47.5,36.9786916 47.5,24 C47.5,11.0213084 36.9786916,0.5 24,0.5 C11.0213084,0.5 0.5,11.0213084 0.5,24 C0.5,36.9786916 11.0213084,47.5 24,47.5 Z M22.812,28.288 L21.948,14.32 L21.84,10.072 L26.16,10.072 L26.088,14.32 L25.188,28.288 L22.812,28.288 Z M24,37.18 C22.416,37.18 21.12,36.1 21.12,34.336 C21.12,32.644 22.416,31.528 24,31.528 C25.584,31.528 26.88,32.644 26.88,34.336 C26.88,36.1 25.584,37.18 24,37.18 Z" id="提示"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

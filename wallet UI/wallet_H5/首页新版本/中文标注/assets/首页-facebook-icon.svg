@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>首页-facebook-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40" rx="4"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-11-DApp详情（展开6）-" transform="translate(-85.000000, -1331.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="375" height="1426"></rect>
+            <g id="Group-198" transform="translate(0.000000, 1166.000000)">
+                <g id="icon" transform="translate(85.000000, 165.000000)">
+                    <g id="首页-facebook-icon">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <rect stroke="#FFFFFF" x="0.5" y="0.5" width="39" height="39" rx="4"></rect>
+                        <path d="M19.999974,40 L19.999974,24.4443403 L15.5555237,24.4443403 L15.5555237,18.9443676 L19.999974,18.9443676 L19.999974,14.3889136 C19.999974,9.58004327 22.6932614,6.20221759 28.3688678,6.20221759 L32.3755274,6.20664339 L32.3755274,11.995595 L29.7155636,11.995595 C27.5067201,11.995595 26.6666493,13.6532929 26.6666493,15.1911296 L26.6666493,18.9466586 L32.3733405,18.9466586 L31.1110995,24.4444444 L26.6666493,24.4444444 L26.6666493,39.9999479" id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

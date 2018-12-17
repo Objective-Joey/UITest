@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>扫码登录</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-00-00-首页" transform="translate(-686.000000, -748.000000)">
+            <rect fill="#F2F7FA" x="0" y="0" width="1920" height="1721"></rect>
+            <g id="扫码登录" transform="translate(686.000000, 748.000000)">
+                <path d="M17,0 C17.5522847,0 18,0.44771525 18,1 C18,1.55228475 17.5522847,2 17,2 L7,2 C4.23857625,2 2,4.23857625 2,7 L2,17 C2,17.5522847 1.55228475,18 1,18 C0.44771525,18 0,17.5522847 0,17 L0,7 C-4.4408921e-16,3.13400675 3.13400675,6.66133815e-16 7,0 L17,0 Z" id="Line" fill="#333333" fill-rule="nonzero"></path>
+                <path d="M17,34 C17.5522847,34 18,34.4477153 18,35 C18,35.5522847 17.5522847,36 17,36 L7,36 C4.23857625,36 2,38.2385763 2,41 L2,51 C2,51.5522847 1.55228475,52 1,52 C0.44771525,52 0,51.5522847 0,51 L0,41 C-5.18104078e-16,37.1340068 3.13400675,34 7,34 L17,34 Z" id="Line-Copy-2" fill="#333333" fill-rule="nonzero" transform="translate(9.000000, 43.000000) scale(1, -1) translate(-9.000000, -43.000000) "></path>
+                <path d="M51,0 C51.5522847,0 52,0.44771525 52,1 C52,1.55228475 51.5522847,2 51,2 L41,2 C38.2385763,2 36,4.23857625 36,7 L36,17 C36,17.5522847 35.5522847,18 35,18 C34.4477153,18 34,17.5522847 34,17 L34,7 C34,3.13400675 37.1340068,7.77156117e-16 41,0 L51,0 Z" id="Line-Copy" fill="#333333" fill-rule="nonzero" transform="translate(43.000000, 9.000000) scale(-1, 1) translate(-43.000000, -9.000000) "></path>
+                <path d="M51,34 C51.5522847,34 52,34.4477153 52,35 C52,35.5522847 51.5522847,36 51,36 L41,36 C38.2385763,36 36,38.2385763 36,41 L36,51 C36,51.5522847 35.5522847,52 35,52 C34.4477153,52 34,51.5522847 34,51 L34,41 C34,37.1340068 37.1340068,34 41,34 L51,34 Z" id="Line-Copy-3" fill="#333333" fill-rule="nonzero" transform="translate(43.000000, 43.000000) scale(-1, -1) translate(-43.000000, -43.000000) "></path>
+                <rect id="Rectangle-5" fill="#7E8EB5" x="9" y="25" width="34" height="2" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="12px" viewBox="0 0 7 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>more三角icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-2首页（鼠标悬浮状态-google-play下载）" transform="translate(-446.000000, -3076.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1920" height="5335"></rect>
+            <g id="去中心化-copy" transform="translate(0.000000, 2835.000000)" fill="#7E8EB5">
+                <g id="文字" transform="translate(379.000000, 85.000000)">
+                    <g id="Group-5" transform="translate(0.000000, 146.000000)">
+                        <g id="Group-12" transform="translate(26.000000, 9.000000)">
+                            <path d="M43.1812704,1.39241285 L47.6257532,6.05263158 C48.1247489,6.57584871 48.1247489,7.42415129 47.6257532,7.94736842 L43.1812704,12.6075872 C42.6822746,13.1308043 41.8732426,13.1308043 41.3742468,12.6075872 C41.1346206,12.3563294 41,12.0155508 41,11.6602187 L41,2.33978127 C41,1.59984051 41.572072,1 42.2777586,1 C42.6166413,1 42.9416442,1.14115512 43.1812704,1.39241285 Z" id="more三角icon（选中）"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
